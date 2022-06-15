@@ -48,3 +48,5 @@ class Queue {
     return this._storage[this._firstIndex];
   }
 }
+
+export default Queue;
